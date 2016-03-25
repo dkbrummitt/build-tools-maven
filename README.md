@@ -1,5 +1,5 @@
 # Command Provider: Ant File
-[![Stories in Backlog](https://badge.waffle.io/dkbrummitt/build-tools-maven.svg?label=backlog&title=Backlog)](http://waffle.io/dkbrummitt/build-tools-maven)
+[![Stories in Backlog](https://badge.waffle.io/dkbrummitt/build-tools-maven.svg?label=ready&title=Ready)](http://waffle.io/dkbrummitt/build-tools-maven)
 #### Execute [maven](https://maven.apache.org/) builds.
 
 ![screenshot](https://placeholdit.imgix.net/~text?txtsize=33&txt=Screenshot%20Coming%20Soon&w=800&h=600)
