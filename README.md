@@ -1,4 +1,4 @@
-# Command Provider: Ant File
+# Command Provider: Maven
 [![Stories in Backlog](https://badge.waffle.io/dkbrummitt/build-tools-maven.svg?label=ready&title=Ready)](http://waffle.io/dkbrummitt/build-tools-maven)
 #### Execute [maven](https://maven.apache.org/) builds.
 
@@ -7,4 +7,4 @@
 This is a provider package for [build-tools](https://atom.io/packages/build-tools).
 
 ### Feature
-This module provides build targets from [ant](https://maven.apache.org/) files (usually `build.xml`).
+This module provides build targets from [maven](https://maven.apache.org/) files (usually `pom.xml`).
